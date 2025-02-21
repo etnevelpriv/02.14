@@ -72,6 +72,7 @@ namespace _02._14
         }
 
         public void Ebredes()
+
         {
             rendetlensegszint = 100;
             ehes = true;
